@@ -6,6 +6,7 @@ export default function layout({children}) {
     <div>
         <SearchHeader/>
         {children}
+        
     </div>
   )
 }
